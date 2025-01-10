@@ -1,0 +1,14 @@
+node_modules/
+model/c2_new_model_weights.pt
+model/model_directory/model.safetensors
+model/model_directory/model_weights.pth
+model/model_weights.pth
+model/a1_True.csv
+model/a2_Fake.csv
+*.pth
+*.pt
+*.safetensors
+*.csv
+node_modules 
+node_modules 
+node_modules/ 

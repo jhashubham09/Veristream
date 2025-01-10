@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://D%3A/hackathon%20projects/veristream/app/page.js"],"sourcesContent":["import Image from \"next/image\";\nimp\n\nexport default function Home() {\n  return (\n    <Navbar />\n  );\n}\n"],"names":[],"mappings":";;;;AAAA;;;AACA;AAEe,SAAS;IACtB,qBACE,8OAAC;;;;;AAEL"}},
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 33, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 33, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
